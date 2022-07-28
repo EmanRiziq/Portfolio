@@ -1,15 +1,15 @@
 {
     "basic_info": {
       "name": "Eman Riziq",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Passionate JS student" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/EmanRiziq",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
+          "name": "LinkedIn",
           "url": "https://www.instagram.com",
           "class": "fab fa-instagram"
         }
