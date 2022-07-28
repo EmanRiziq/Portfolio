@@ -1,3 +1,3 @@
 # Modify this portfolio
 
-Make it your own! 
+Please oin me on https://emanriziq.netlify.app/
