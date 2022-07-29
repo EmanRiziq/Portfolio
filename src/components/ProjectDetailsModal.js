@@ -51,7 +51,7 @@ class ProjectDetailsModal extends Component {
             <div className="slider-tab">
               <span
                 className="iconify slider-iconfiy"
-                data-icon="emojione:red-circle"
+               icon data-="emojione:red-circle"
                 data-inline="false"
                 style={{ marginLeft: "5px" }}
               ></span>{" "}
