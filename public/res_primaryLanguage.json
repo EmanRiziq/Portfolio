@@ -65,37 +65,30 @@
   ],
   "experience": [
     {
-      "company": "DefOpenSource",
-      "title": "Front-End Developer",
-      "years": "10.2019 - present",
+      "company": "JUST",
+      "title": "LAb Teacher Assistant",
+      "years": "01.2016 - 07.2016",
       "mainTech": [
-        "Angular 8/9/10"
+        "C++"
       ],
       "technologies": [
-        "REST API",
-        "RxJS",
-        "JavaScript",
-        "Bootstrap",
-        "MDBootstrap",
-        "EF Core",
-        ".NET Core",
-        "SignalR",
-        "Angular Material"
+        "C++",
+        "C#"
       ]
     },
     {
-      "company": "Serros Solutions",
-      "title": "Intern",
-      "years": "01.2018 - 09.2019",
+      "company": "INTRACOM MEA",
+      "title": "Application Developer",
+      "years": "10.2009 - 1.2012",
       "mainTech": [
-        "Angular 7/8"
+        "AOracle ERP"
       ],
       "technologies": [
-        "RxJS",
-        "Django",
-        "PHP",
-        "JavaScript",
-        "DHTMLX Gantt"
+        "Oracle Reports",
+        "Oracle Forms",
+        "PL/SQL",
+        "SQL",
+        "BI Bublisher"
       ]
     }
   ]
